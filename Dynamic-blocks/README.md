@@ -1,2 +1,2 @@
 - To add different port numbers and rules to the same security group, we can either keep recreating the security group declaration for each variation statically.
--  But this is somewhat not recommended. Instead we can create this declaration block dynamically.
+- But this is somewhat not recommended. Instead we can create this declaration block dynamically.
