@@ -1,0 +1,3 @@
+- When working on one or more state files as a team, we often face the challenge of different changes made in one file by different team members simultaneoulsy.
+- Everytime we run the terraform apply command, we find that the terraform.tfstate file is locked for any further updates until the application of the stat is controlled. 
+- This means, the file enters the lock state, and this is very useful when multiple team members apply the same state file simultaneoulsy.
